@@ -1,0 +1,5 @@
+Total troca: 413
+Total comparações: 5049
+Total CPU: 0.0
+Total memoria: 3793047552
+Total Tempo: 0.0
